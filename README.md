@@ -1,8 +1,6 @@
 # Opa, hello! 👋 I'm Maria.
 
-Junior developer in transition. I'm already the black sheep of the family anyway, what do I have to lose? 🐑 
-
-I'm focused on turning complex data into clear insights. Currently obsessed with building a solid foundation in **Data Engineering** and **DBA** tasks.
+Junior developer in transition. 🐑 I'm focused on turning complex data into clear insights. Currently obsessed with building a solid foundation in **Data Engineering** and **DBA** tasks.
 
 ---
 ### 🛠 Tech Stack:
