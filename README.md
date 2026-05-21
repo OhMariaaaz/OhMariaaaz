@@ -1,8 +1,8 @@
 # Opa, hello! 👋 I'm Maria.
 
-Junior developer in transition, passionate about data, logic, and building efficient solutions. I’m currently diving deep into **Python**, **SQL**, and **Java** to turn complex problems into clean code.
+Junior developer in transition. I'm already the black sheep of the family anyway, what do I have to lose? 🐑 
 
-🌱 Constantly learning and growing, both in technology and life.
+I'm focused on turning complex data into clear insights. Currently obsessed with building a solid foundation in **Data Engineering** and **DBA** tasks.
 
 ---
 ### 🛠 Tech Stack:
@@ -11,7 +11,12 @@ Junior developer in transition, passionate about data, logic, and building effic
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ---
-### ☕ About me:
-* **Gaming:** Huge fan of RPGs and logical challenges.
-* **Místico & Natureza:** I love taking care of my plants and exploring the mysteries of the world.
-* **Language:** Currently on a journey to reach full English fluency. 🌎
+### 🧪 More about me:
+* ♉ **Personality:** INFP/INTP – Analytical mind with a creative soul and restless body.
+* 🥊 **Discipline:** Muay Thai.
+* 🎲 **Gaming:** RPG and Boardgames Enthusiast – I love systems, rules, and world-building.
+* 🌿 **Balance:** Alchemist in the kitchen & proud plant/pet lover.
+* 🌎 **Goal:** Currently leveling up my English fluency to connect with the world.
+
+---
+**Let's connect!** 🔗 [LinkedIn](https://www.linkedin.com/in/meg-maria-eduarda-gomes) | 💻 [GitHub](https://github.com/OhMariaaaz)
